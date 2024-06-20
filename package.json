@@ -1,0 +1,27 @@
+{
+  "name": "calci",
+  "version": "1.0.0",
+  "description": "this is a calculator test program using selenium",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowjanya-it/calculatorSelenium.git"
+  },
+  "keywords": [
+    "Selenium",
+    "calculatorTesting"
+  ],
+  "author": "Sowjanya Jindam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sowjanya-it/calculatorSelenium/issues"
+  },
+  "homepage": "https://github.com/sowjanya-it/calculatorSelenium#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {}
+}
